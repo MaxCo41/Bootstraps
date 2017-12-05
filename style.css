@@ -1,0 +1,25 @@
+
+
+p {
+  text-align: center;
+}
+.container-fluid {
+  background-color: pink;
+  border: 1px black solid;
+  text-align: center;
+}
+.col-3 {
+  border: 1px black solid;
+}
+.col-4 {
+  border: 1px black solid;
+}
+.col-5 {
+  border: 1px black solid;
+}
+.col-2 {
+  border: 1px black solid;
+}
+.col-6 {
+  border: 1px black solid;
+}
